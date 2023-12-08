@@ -62,6 +62,12 @@ set sql_safe_updates = 0;
 Attached copy of the EDA is above. 
 
 ### Recommendations:
-Based on the analysis, 
+* Based on the analysis, we should proritize ongoing training programs to enhance staff knowledge and customer service skills for a positive shopping experience. 
+* Flexible pricing strategies should be implemented to maximize revenue during peak periods.
+* Act on customer feedback to enhance service.
+* Collaborate with more suppliers to expand product offerings and improve overall convenience for customers.
+
+#### You can interact with the dashboard [here]!(
+
 
 
