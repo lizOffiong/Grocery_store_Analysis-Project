@@ -15,7 +15,7 @@ It consists of interconnected tables each containing detailed information necess
 I used MySQL for in-depth analysis and Power BI, which is a user-friendly tool, for visualizing data.
 
 ### Data Cleaning and Preparation:
-1. The dataset was thoroughly to guarantee the precision and dependability of the data structure. I was able to identify key tables and their relationships. 
+1. The dataset was thoroughly cleaned to guarantee the precision and dependability of the data structure. I was able to identify key tables and their relationships. 
 Created columns for each table in the database that will enhance the analysis.
 
 * Example:
@@ -35,25 +35,10 @@ CREATE TABLE `orders` (
 ALTER TABLE `orders` ADD CONSTRAINT `fk_orders_CustomerID` FOREIGN KEY(`CustomerID`)
 REFERENCES `customers` (`CustomerID`);
 ```
-2. 
+2. Handled and replaced missing or null values.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```sql
+* Example:
+```SQL
 -- Replace 'Ã¶' with 'ö'
 
 select CustomerName,
@@ -72,3 +57,6 @@ set CustomerName = (select
         end);
 set sql_safe_updates = 0;
 ```
+
+### Exploratory Data Analysis (EDA):
+
