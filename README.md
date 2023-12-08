@@ -59,4 +59,9 @@ set sql_safe_updates = 0;
 ```
 
 ### Exploratory Data Analysis (EDA):
+Attached copy of the EDA is above. 
+
+### Recommendations:
+Based on the analysis, 
+
 
