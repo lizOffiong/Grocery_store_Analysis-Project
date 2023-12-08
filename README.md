@@ -67,7 +67,7 @@ Attached copy of the EDA is above.
 * Act on customer feedback to enhance service.
 * Collaborate with more suppliers to expand product offerings and improve overall convenience for customers.
 
-#### You can interact with the dashboard [here]!(
+#### _You can interact with the dashboard_ [here](https://app.powerbi.com/groups/me/reports/ade3133a-233c-41af-9a39-90adfeed3808?ctid=7a7d9927-84e9-4910-b10f-850c64b28029&pbi_source=linkShare)
 
 
 
